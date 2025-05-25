@@ -1,0 +1,3 @@
+X = df [['salario_anual', 'total_dividas', 'historico_pagamento (score)', 'idade', 'credito_solicitado']]
+
+Não foi feito previsão, então sem dados previstos.
