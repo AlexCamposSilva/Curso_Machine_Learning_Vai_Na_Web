@@ -18,7 +18,7 @@ Durante o curso, aprendi os fundamentos da Inteligência Artificial e Machine Le
 
 Essa formação me capacitou a iniciar projetos que aplicam IA em cenários reais, respeitando as exigências e boas práticas do mercado atual.
 
-🚀 #Projetos em Desenvolvimento
+# 🚀 Projetos em Desenvolvimento
 Aqui no meu GitHub, você vai encontrar projetos desenvolvidos com base nos conhecimentos adquiridos durante o curso, incluindo:
 
 Projeto 1 – Classificação de Imagens com CNNs
