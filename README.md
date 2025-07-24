@@ -1,4 +1,5 @@
-🎓 #Formação em Inteligência Artificial Aplicada – Vai na Web
+# 🎓 Formação em Inteligência Artificial Aplicada – Vai na Web
+
 Concluí a formação Fundamentos em Inteligência Artificial Aplicada pela iniciativa social Vai na Web, com carga horária total de 65 horas (44h de aulas técnicas e 21h de Soft Skills).
 
 Durante o curso, aprendi os fundamentos da Inteligência Artificial e Machine Learning, com foco na construção e no treinamento de modelos próprios. As principais habilidades e conteúdos abordados incluem:
